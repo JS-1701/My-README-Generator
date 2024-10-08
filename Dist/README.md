@@ -1,7 +1,7 @@
-# DAN 
+# My README Generator 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ## Description 
-DAN
+This project is a readme generator! use it to generate a professional readme through  node!
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -10,15 +10,15 @@ DAN
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-DAN
+The comman you want to run is npm i 
 ## Usage
-DAN
+To use the generator run npm install and follow the questions to create the readme.
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 ## Contributing
-DAN
+I used node.js if anyone would like to contribute!
 ## Tests
-DAN
+The command to run thests is node index 
 ## Questions
--If you have any questions contact me at [DAN]!
--You can find more of my work at [DAN].
+-If you have any questions contact me at [first.it.giveth13@gmail.com]!
+-You can find more of my work at [JS-1701].
