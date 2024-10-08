@@ -34,8 +34,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For questions or support, please contact:
 
-Your Name: your.email@example.com
-GitHub: yourusername
+Your Name: first.it.giveth13@gmail.com
+GitHub: JS-1701
 Acknowledgments
 Thanks to all contributors and users for their support and feedback.
 Inspiration drawn from various open-source documentation tools.
