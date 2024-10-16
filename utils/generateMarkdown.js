@@ -2,13 +2,11 @@
 // // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license === 'MIT') {
-      return '![License](https://img.shields.io/badge/License-MIT-blue.svg)';
-  } else if (license === 'GNU GPLv3') {
-      return '![License](https://img.shields.io/badge/License-GNU%20GPLv3-blue.svg)';
+      return '![license](https://img.shields.io/badge/License-MIT-blue.svg)';
+    } else if (license === 'GPL') {
+      return '![License](https://img.shields.io/badge/License-GPL-blue.svg)';
   } else if (license === 'Apache 2.0') {
       return '![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)';
-  } else if (license === 'ISC') {
-      return '![license](https://img.shields.io/badge/License-ISC-blue.svg)';
   } else {
       return '';
   }
@@ -19,13 +17,11 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   if (license === 'MIT') {
       return '[MIT](https://opensource.org/licenses/MIT)';
-  } else if (license === 'GNU GPLv3') {
-      return '[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0)';
-  } else if (license --- 'Apache 2.0') {
+  } else if (license === 'GPL') {
+      return '[GPL](https://www.gnu.org/licenses/gpl-3.0)';
+  } else if (license === 'Apache 2.0') {
       return '[Apache 2.0](https://opensource.org/licenses/Apache-2.0)';
-  } else if (license === 'ISC') {
-      return '[ISC](https://opensource.org/licenses/ISC)';
-  } else {
+    } else {
       return '';
   }
 }
@@ -35,12 +31,10 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license === 'MIT') {
       return 'This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.';
-  } else if (license === 'GNU GPLv3') {
-      return 'This project is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0) license.';
+  } else if (license === 'GPL') {
+      return 'This project is licensed under the [GPL](https://www.gnu.org/licenses/gpl-3.0) license.';
   } else if (license === 'Apache 2.0') {
       return 'This project is licensed under the [Apache 2.0](https://opensource.org/licenses/Apache-2.0) license.';
-  } else if (license === 'ISC') {
-      return 'This project is licensed under the [ISC](https://opensource.org/licenses/ISC) license.';
   } else {
       return '';
   }
@@ -69,8 +63,8 @@ ${data.contribution}
 ## Tests
 ${data.test}
 ## Questions
--If you have any questions contact me at [${data.email}]!
--You can find more of my work at [${data.github}].
+-If you have any questions contact me at ${data.email}!
+-You can find more of my work at ${data.github}.
 `;
 }
 export default generateMarkdown;
