@@ -36,7 +36,7 @@ Contact
 For questions or support, please contact:
 
 Your Name: first.it.giveth13@gmail.com
-GitHub: JS-1701
+GitHub: https://github.com/JS-1701
 Acknowledgments
 Thanks to all contributors and users for their support and feedback.
 Inspiration drawn from various open-source documentation tools.
