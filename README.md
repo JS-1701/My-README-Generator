@@ -59,6 +59,10 @@ Contributions are welcome! To contribute to the README Generator:
 3. Commit your changes and push the branch to your fork.
 4. Submit a pull request detailing your changes.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/d938a02a-1814-42a4-a0b8-6bc17c3e7514)
+
+
 ## License
 
 This project is licensed under the MIT License. 
