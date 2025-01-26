@@ -1,7 +1,7 @@
-# My README Generator  
+# My README Generator 
 ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 ## Description 
-The project allows you to make a professional README! 
+The project allows you to make a professional README!
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -10,7 +10,7 @@ The project allows you to make a professional README!
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-npm i for dependencies. 
+npm i for dependencies.
 ## Usage
 have node.js installed.
 ## License
@@ -21,4 +21,4 @@ No contributing - sorry!
 To begin testing, use the following command: node index
 ## Questions
 -If you have any questions contact me at first.it.giveth13@gmail.com!
--You can find more of my work at JS-1701.
+You can find more of my work at [JS-1701](https://github.com/JS-1701).

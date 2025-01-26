@@ -65,7 +65,7 @@ ${data.contribution}
 ${data.test}
 ## Questions
 -If you have any questions contact me at ${data.email}!
--You can find more of my work at ${data.github}.
+You can find more of my work at [${data.github}](https://github.com/JS-1701).
 `;
 }
 export default generateMarkdown;
