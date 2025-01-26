@@ -40,6 +40,8 @@ function renderLicenseSection(license) {
 }
 
 function generateMarkdown(data) {
+  console.log('title = ' + data.title);
+  console.log('data.installation = ' + data.installation);
   return `# ${data.title} 
 ${renderLicenseBadge(data.license)}
 ## Description 
