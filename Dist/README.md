@@ -1,7 +1,7 @@
-# MEee 
+# My README Generator  
 ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 ## Description 
-HEllo
+The project allows you to make a professional README! 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -10,15 +10,15 @@ HEllo
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-Yes
+npm i for dependencies. 
 ## Usage
-Hi
+have node.js installed.
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 ## Contributing
-Hi
+No contributing - sorry!
 ## Tests
-No
+To begin testing, use the following command: node index
 ## Questions
--If you have any questions contact me at HI!
--You can find more of my work at Maybe.
+-If you have any questions contact me at first.it.giveth13@gmail.com!
+-You can find more of my work at JS-1701.
