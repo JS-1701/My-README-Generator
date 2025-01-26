@@ -67,9 +67,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or support, please contact:
 
-- **Your Name**: [first.it.giveth13@gmail.com](mailto:first.it.giveth13@gmail.com)  
+- **My Email**: [first.it.giveth13@gmail.com](mailto:first.it.giveth13@gmail.com)  
 - **GitHub**: [https://github.com/JS-1701](https://github.com/JS-1701)
 
-## Acknowledgments
-
-Thanks to all contributors and users for their support and feedback. Inspiration drawn from various open-source documentation tools.
